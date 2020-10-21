@@ -1,17 +1,5 @@
 # Microservice_Autotests
  
-| № | name | Time | Status |   
-| ------ | ------ | ------ | ------ |
-| 1 | micreoservices introduction| 1 day | 7.07.2020 |
-| 2 | Linux | 4 days | 07.07.2020-12.07.2020 |
-| 3 | Nginx | 1 day | 08.07.2020-12.07.2020 |
-| 4 | Docker | 2 days | 13.07.2020-16.07.2020 |
-| 5 | Postman | 2 days | 16.07.2020-18.07.2020 |
-| 6 | Kubernetes | 5 days | 18.07.2020-27.07.2020 |
-| 7 | Rest API / Java | 22 days | 16.07.2020-18.07.2020 |
-| 8 | Prometheus introduction | 1 day | 20.08.2020-22.08.2020 |
-
-
 # Step 1. Docker
 
 **To use centos you need to build an image with help of dockerfile**
