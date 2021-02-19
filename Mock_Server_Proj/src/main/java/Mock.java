@@ -32,7 +32,7 @@ class Mock {
                 .willReturn(aResponse()
                         .withStatus(200)
                         .withHeader("Content-Type","application/json")
-                        .withBody("{\"id\": \"227\" , \"fio\": \"Фоломкин Антон Андреевич\", \"position\": \"Cпециалист по тестированию\", \"number\": \"2\" }" )));
+                        .withBody("{\"id\": \"227\" , \"fio\": \"Иванов Иван Иванович\", \"position\": \"Cпециалист по тестированию\", \"number\": \"2\" }" )));
         //настройка запроса delete
         stubFor(delete(urlPathMatching("/mock/delete_employee"))
                 .willReturn(aResponse()
